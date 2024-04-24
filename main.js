@@ -1,3 +1,4 @@
+
 const pets = [
     {
       id: 1,
@@ -13,7 +14,7 @@ const pets = [
       color: "Brown",
       specialSkill: "Just picks the tomatoes off of a sandwich instead of requesting a whole new sandwich.",
       type: "dino",
-      imageUrl: "http://www.jozilife.co.za/wp-content/uploads/The-Dino-Expo.jpg",
+      imageUrl: "https://i.ebayimg.com/images/g/UTMAAOSwLjdh5GFU/s-l1600.jpg",
     },
     {
       id: 3,
@@ -61,7 +62,7 @@ const pets = [
       color: "Grey",
       specialSkill: "Comfortable in the outdoors for up to eight hours.",
       type: "dino",
-      imageUrl: "http://www.theouthousers.com/images/jck//ThanosCopter/news/grumpasaur.jpg"
+      imageUrl: "https://dbdzm869oupei.cloudfront.net/img/sticker/preview/38713.png"
     },
     {
       id: 9,
@@ -85,7 +86,7 @@ const pets = [
       color: "Orange",
       specialSkill: "Can be around food without staring creepily at it.",
       type: "dino",
-      imageUrl: "http://www.cantref.com/userfiles/events/walking%20dino.jpg?w=600"
+      imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLp_aRmZP0gKWzCggji4q1M_dO8JcgktJokqNWZaSDBQ&s"
     },
     {
       id: 12,
@@ -101,7 +102,7 @@ const pets = [
       color: "Red",
       specialSkill: "Expertly quotes and recognizes dialogue from early seasons of The Simpsons.",
       type: "dog",
-      imageUrl: "http://1kjkdg1axrkd2g03cnboj761.wpengine.netdna-cdn.com/wp-content/uploads/2017/12/braydon-anderson-105552-e1512684107659.jpg"
+      imageUrl: "https://media.pitchfork.com/photos/5cf6a62d13c07d3e4115dc87/master/pass/Valee.jpeg"
     },
     {
       id: 14,
@@ -125,7 +126,7 @@ const pets = [
       color: "Brown",
       specialSkill: "Drives at a safe rate of speed in snow or rain.",
       type: "dino",
-      imageUrl: "https://images.readwrite.com/wp-content/uploads/2018/03/t-rex-dino-quiz-e1490854556549.jpg"
+      imageUrl: "https://c8.alamy.com/comp/2GPC82G/fun-3d-cartoon-dinosaur-with-a-mask-2GPC82G.jpg"
     },
     {
      id: 17,
@@ -133,7 +134,7 @@ const pets = [
       color: "Yellow",
       specialSkill: "Does not freak out if you haven’t seen his favorite movie (The Big Lebowski).",
       type: "cat",
-      imageUrl: "http://www.funnycatsite.com/pictures/Close_Up_Yawn.jpg"
+      imageUrl: "data:image/jpeg;base64,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"
     },
     {
       id: 18,
@@ -141,7 +142,7 @@ const pets = [
       color: "Brown",
       specialSkill: "Proficient in air guitar",
       type: "dino",
-      imageUrl: "https://www.nation.co.ke/image/view/-/4078922/highRes/1742693/-/maxw/600/-/1453yvh/-/DINO.jpg"
+      imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf9UTgfzv0DD3r4AUPS9zBuBGnQgX6AGIWrQ&s"
     },
     {
       id: 19,
@@ -149,7 +150,7 @@ const pets = [
       color: "Blue",
       specialSkill: "Listens attentively to boring stories.",
       type: "dog",
-      imageUrl: "http://dailynewsdig.com/wp-content/uploads/2014/03/Creative-And-Funny-Dog-Stock-Photography-Pictures-2.jpg"
+      imageUrl: "https://www.opawz.com/cdn/shop/products/34862585aa2f2021a589e5498d824f5f_800x.jpg?v=1666099096"
     },
     {
       id: 20,
@@ -157,7 +158,7 @@ const pets = [
       color: "Black",
       specialSkill: "Uses litter box at appropriate hours.",
       type: "cat",
-      imageUrl: "http://www.funnycatsite.com/pictures/Lazy_White_Cat.jpg"
+      imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaC4qLNKdewJ-sWejSti4RmsO_WK8IIyFBxxjdWinxUQ&s"
     },
     {
       id: 21,
@@ -165,7 +166,7 @@ const pets = [
       color: "Red",
       specialSkill: "Owns a Nintendo Power Glove.",
       type: "dino",
-      imageUrl: "https://img.buzzfeed.com/buzzfeed-static/static/2015-11/2/12/enhanced/webdr15/anigif_enhanced-29802-1446485228-10.gif?crop=250:165;0,0&downsize=715"
+      imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkhJj5UMBtzmYWUzWhyj7sm-oZgUbr7J3Y8wSxEOmvQ&s"
     },
     {
         id: 22,
@@ -173,7 +174,7 @@ const pets = [
       color: "Orange",
       specialSkill: "Is comfortable with jokes about his receding hairline.",
       type: "cat",
-      imageUrl: "http://funnyanimalphoto.com/wp-content/uploads/2013/08/cat_caught_mouse_thegatewaypundit.jpg"
+      imageUrl: "https://i.pinimg.com/736x/cb/6f/5f/cb6f5f5bcfb521eacaef153e9cc5247e.jpg"
     },
     {
         id: 23,
@@ -189,7 +190,7 @@ const pets = [
       color: "Brown",
       specialSkill: "Participates in karaoke but does not force others to go out to karaoke.",
       type: "dog",
-      imageUrl: "http://www.dogbreedplus.com/dog_breeds/images/basset-hound-4.jpg"
+      imageUrl: "https://i.pinimg.com/736x/92/ca/10/92ca106ab21e2a899837e7299501907d.jpg"
     },
     {
       id: 25,
@@ -197,7 +198,7 @@ const pets = [
       color: "Red",
       specialSkill: "Knows the words to 4 rap songs.",
       type: "cat",
-      imageUrl: "http://funbk.s3.amazonaws.com/wp-content/uploads/2016/06/funny-cat-video-which-will-make-you-laugh-louder.jpg"
+      imageUrl: "https://cdn12.picryl.com/photo/2016/12/31/cat-red-funny-animals-522479-1024.jpg"
     },
     {
         id: 26,
@@ -237,6 +238,128 @@ const pets = [
       color: "Red",
       specialSkill: "Doesn’t get weirded out by the word “moist.”",
       type: "dino",
-      imageUrl: "http://lsae2.iypcdn.com/static//modules/uploads/photos/language1/dino-live-22.jpg?119"
+      imageUrl: "https://m.media-amazon.com/images/I/61hQilm4HhL._AC_UF894,1000_QL80_.jpg"
     }
+
   ];
+
+const targetingApp = document.querySelector("#app");
+
+const cardsOnDom = (array) => {
+let domString = "";
+for (const pet of array)  {
+  domString += 
+  `<div class="card" style="width: 18rem;">
+  
+  <div class="card-body">
+    <h2 class="card-title">${pet.name}</h2>
+    <img src=${pet.imageUrl}>
+    <h5 class"color-title">${pet.color}</h5>
+    <p class="card-text">${pet.specialSkill}</p>
+    <h5 class"animal-type">${pet.type}</h5>
+    <button class="btn btn-danger" id="delete--${pet.id}">Delete</button>
+  </div>
+</div>`
+
+targetingApp.innerHTML= domString
+}}
+
+const filter = (array, type) => {
+  const petArray = [];
+  for (const pet of array) {
+    if (pet.type === type) {
+      petArray.push(pet);
+    }
+  }
+  
+  return petArray;
+}
+const dogButton = document.querySelector("#dogs");
+const catButton = document.querySelector("#cats");
+const dinoButton = document.querySelector("#dinos");
+const petsButton = document.querySelector("#pets")
+
+cardsOnDom(pets)
+
+dogButton.addEventListener("click", () => {
+  const dogs = filter(pets, "dog")
+  cardsOnDom(dogs);
+});
+
+catButton.addEventListener("click", () => {
+  const cats = filter(pets, "cat")
+  cardsOnDom(cats);
+});
+
+dinoButton.addEventListener("click", () => {
+  const dinos = filter(pets, "dino")
+  cardsOnDom(dinos);
+});
+
+petsButton.addEventListener("click", () => {
+  cardsOnDom(pets);
+});
+
+
+const form = document.querySelector("form")
+
+const createPet = (e) => {
+  e.preventDefault();
+  const newPetObj = {
+    id: pets.length + 1,
+    name: document.querySelector("#name").value,
+    color: document.querySelector("#color").value,
+    specialSkill: document.querySelector("#specialSkill").value,
+    type: document.querySelector("#type").value,
+    image: document.querySelector("#image").value
+
+  };
+   pets.push(newPetObj);
+   console.log("pets", pets);
+   cardsOnDom(pets)
+  //  domString = ""
+  //  targetingApp.innerHTML += domString
+    form.reset();
+    
+  };
+
+  form.addEventListener("submit", createPet);
+
+  const app = document.querySelector("#app");
+
+// 2. Add an event listener to capture clicks
+
+app.addEventListener('click', (e) => {
+  // console.log(e.target.id);
+  
+// 3. check e.target.id includes "delete"
+  if (e.target.id.includes("delete")) {
+    // destructuring: https://github.com/orgs/nss-evening-web-development/discussions/11
+    const [, id] = e.target.id.split("--");
+
+// 4. add logic to remove from array
+    // .findIndex is an array method
+    const index = team.findIndex(e => e.id === Number(id));
+
+    // .splice modifies the original array
+    team.splice(index, 1);
+
+// 5. Repaint the DOM with the updated array
+    cardsOnDom(team);
+  }
+});
+
+const startApp = () => {
+  cardsOnDom(team);
+  // events(); // ALWAYS LAST
+}
+
+
+startApp();
+
+
+
+ 
+
+  
+  

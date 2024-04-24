@@ -1,0 +1,36 @@
+body {
+ background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/vintage-black-and-blue-seamless-art-deco-wallpaper-pattern-julien.jpg");
+background-size:contain ;
+}
+
+#app {
+  display: flex;  
+  flex-wrap: wrap;
+  justify-content: space-between;
+  column-gap: 50px;
+  row-gap: 50px;
+  
+  
+}
+
+
+img {
+  float: left;
+  width:  100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+#buttons {
+  width: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  justify-content: center;
+  ;
+}
+
+.btn-primary {
+  margin: 10px;
+
+}
